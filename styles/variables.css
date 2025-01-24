@@ -1,0 +1,8 @@
+:root {
+  --main-dark-color: #000;
+  --main-light-color: #fff;
+  --font-color: #c2c2c2;
+  --ko-font-style: "Noto Sans KR", serif;
+  --en-font-style: "Orbitron", serif;
+  color: rgb(250, 250, 210);
+}
